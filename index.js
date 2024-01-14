@@ -1,5 +1,3 @@
-console.log("Hello world");
-
 let numbers = "";
 const digits = 1;
 const display = document.querySelector("#display");
